@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](/LinkedIn-Header.png)](https://github.com/mycancel)
+[![Header](/Header.gif)](https://github.com/mycancel)
 
-# Welcome to mycancel's Profile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mary-cance/)
 
 ## Currently Coding
 
 TBD . . .
 
-## My latest project
+## My Latest Project
 
 [Flower E-commerce Shop](https://github.com/ntraugh/flower-shop)
 
@@ -37,3 +37,6 @@ My responsibilities included:
  - Styling the Signup and Login pages
  - Styling the Featured Bouquet Component (with ntraugh)
  - Assisting team members when they needed feedback or help
+ 
+## Check Out My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mycancel&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=AFE0DB&ring=71A79C&currStreakNum=F3F4F4&sideLabels=AFE0DB&currStreakLabel=AFE0DB&dates=F3F4F4&sideNums=F3F4F4&stroke=F3F4F4)](https://git.io/streak-stats)
