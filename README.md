@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](/banner.png)](https://github.com/mycancel)
+[![Header](/LinkedIn Hanner.png)](https://github.com/mycancel)
 
 # Welcome to mycancel's Profile
