@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ## Currently Coding
 
-TBD . . .
+Array-Method-A-Day Sandbox
+
+Challenging myself to explore array methods by using an array method a day.
 
 ## My Latest Project
 
