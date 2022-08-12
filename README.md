@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## Currently Coding
 
-Array-Method-A-Day Sandbox
+[Array-Method-A-Day Sandbox](https://github.com/mycancel/array-method-a-day)
 
-Challenging myself to explore array methods by using an array method a day.
+Challenging myself to explore array methods by using an array method a day. The application will be deployed to Github Pages with the intention to dynamically display information and an example of the array method on the page.
 
 ## My Latest Project
 
