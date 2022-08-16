@@ -23,6 +23,15 @@ Here are some ideas to get you started:
 
 Challenging myself to explore array methods by using an array method a day. The application will be deployed to Github Pages with the intention to dynamically display information and an example of the array method on the page.
 
+[Code Quiz](https://github.com/mycancel/code-quiz)
+
+Polishing and refactoring my least favorite coding project of the UNC Bootcamp. At the time, I did not understand the basics of updating HTML with JavaScript or, simply, how to make an array of objects. Now, this project does not seem as daunting. I hope to make this application into a project that I can be proud of. With fresh perspective and a better understanding of dynamically updating HTML and CSS with JavaScript, my goals include:
+
+ - Creating an easy to update question array and quiz key
+ - Condensing and refactoring code so that there is no unnecessary or duplicate code (*cough* Event Listeners *cough*)
+ - Changing filler information to relevant technical interview questions to practice
+ - Adding mobile-first CSS styling
+
 ## My Latest Project
 
 [Flower E-commerce Shop](https://github.com/ntraugh/flower-shop)
