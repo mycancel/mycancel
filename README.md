@@ -32,6 +32,16 @@ Polishing and refactoring my least favorite coding project of the UNC Bootcamp. 
  - Changing filler information to relevant technical interview questions to practice
  - Adding mobile-first CSS styling
 
+## Look Out For
+
+A Card Game MERN stack project
+
+I am in the process of deciding whether to use MongoDB for the cards or call in a third-party API, but this project will be the first big project after my graduation from the UNC Charlotte Bootcamp. 
+
+The inspiration from this project comes from my long-time interest in video games. As an avid digital Sudoku and Solitaire player, I want to create a card game that I play with my family, Hands and Feet (more commonly known as Hand and Foot). While I may start off with a condensed version of the game (let's call it Pinkies and Toes), the ideal version of the game will be a larger commitment. It is a four player game with two teams of two players; four decks of cards including Jokers are in play; four rounds are played; accrued points decide the winner. 
+
+I will see how far the MERN stack takes me within this project, and I may look into other programming languages in the future to polish it.
+
 ## My Latest Project
 
 [Flower E-commerce Shop](https://github.com/ntraugh/flower-shop)
