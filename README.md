@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mary-cance/)
 
+[![CodeSignal](https://img.shields.io/badge/CodeSignal-9fd9cf?style=for-the-badge&logo=CodeSignal&logoColor=white)](https://app.codesignal.com/profile/mycancel)
+
 ## Currently Coding
 
 [Array-Method-A-Day Sandbox](https://github.com/mycancel/array-method-a-day)
